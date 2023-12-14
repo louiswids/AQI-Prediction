@@ -1,8 +1,9 @@
 # AQI Time-Series Prediction (Dicoding Belajar Pengembangan Machine Learning - 2023) ✨
 
-Data is acquired from https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india?select=station_hour.csv and utilized the station_hour.csv file to predict the Air Quality Index (AQI). AQI will be predicted based on the data of the TG003 station, with details of the station can be found in the Dataset link in Kaggle.
+Data is acquired from <a href = 'https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india' target = 'blank'>Kaggle</a> and utilized the station_hour.csv file to predict the Air Quality Index (AQI). AQI will be predicted based on the data of the TG003 station, with details of the station can be found in the Dataset link in Kaggle.
 
-<img src = 'image.png'>
+<a href = 'https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india' target = 'blank'><img src = 'image.png'></a>
+
 
 ## Setup environment
 ```
